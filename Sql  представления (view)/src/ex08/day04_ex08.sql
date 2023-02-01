@@ -1,0 +1,2 @@
+--drop view v_price_with_discount, v_symmetric_union, v_generated_dates
+drop materialized view mv_dmitriy_visits_and_eats
